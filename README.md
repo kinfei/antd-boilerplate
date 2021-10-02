@@ -1,6 +1,6 @@
 # antd-boilerplate
 
-Boilerplate for using antd pro dashboard
+Boilerplate for using antd pro dashboard with light / dark mode switch
 
 [Link to Demo](https://fir-boilerplate-f7d84.web.app/)
 
